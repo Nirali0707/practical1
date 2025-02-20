@@ -1,7 +1,6 @@
 a = 19
 b = 7
-c = 13
+c = 11
 print (a+b)
-print (c) 
 # python code updated
 
